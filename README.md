@@ -26,7 +26,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "password";
-$database = "m1039_roulette_demo";
+$database = "roulette_db";
     </code>
     <h2>Demo:</h2>
     Visit: https://gpo-01-backup.usermd.net/roulette_demo/
